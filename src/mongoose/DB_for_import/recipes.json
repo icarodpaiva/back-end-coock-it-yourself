@@ -1,0 +1,389 @@
+[{
+  "_id": {
+    "$oid": "61c129521f0b3b6607c7ad8a"
+  },
+  "name": "pudim de leite condensado",
+  "imageUrl": "https://blog.praticabr.com/wp-content/uploads/2021/04/pudim-min.jpg",
+  "ingredients": [
+    {
+      "ingredient": "açúcar",
+      "ingredientUnit": "Xícara(s)",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c129521f0b3b6607c7ad8b"
+      }
+    },
+    {
+      "ingredient": "leite",
+      "ingredientUnit": "Ml(s)",
+      "ingredientQuantity": 800,
+      "_id": {
+        "$oid": "61c129521f0b3b6607c7ad8c"
+      }
+    },
+    {
+      "ingredient": "ovo",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 3,
+      "_id": {
+        "$oid": "61c129521f0b3b6607c7ad8d"
+      }
+    }
+  ],
+  "tools": [
+    "forma com elevação",
+    "forno",
+    "geladeira",
+    "liquidificador"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Hora(s)",
+      "timeQuantity": 8
+    },
+    "howToMake": [
+      "Calda: Em uma panela de fundo largo, derreta o açúcar até ficar dourado.",
+      "Calda: Junte 1/2 Xícara de água quente e mexa com uma colher.",
+      "Calda: Deixe ferver até dissolver os torrões de açúcar e a calda engrossar.",
+      "Calda: Forre com a calda uma forma com furo central e reserve.",
+      "Pudim: Em um liquidificador, bata todos os ingredientes do pudim e despeje na forma reservada.",
+      "Pudim: Cubra com papel-alumínio e leve ao forno médio (180°C), em banho-maria, por cerca de 1 hora e 30 minutos.",
+      "Pudim: Depois de frio, leve para gelar por cerca de 6 horas.",
+      "Pudim: Desenforme e sirva a seguir."
+    ]
+  },
+  "servingsPerPerson": 16
+},{
+  "_id": {
+    "$oid": "61c12c40e9a488ed00bfa4e9"
+  },
+  "name": "leite com chocolate",
+  "imageUrl": "https://corpoacorpo.com.br/upload/imagens_upload/Tomar_leite_desnatado_com_chocolate_ajuda_a_emagrecer.jpg",
+  "ingredients": [
+    {
+      "ingredient": "achocolatado",
+      "ingredientUnit": "Colher(es) de Sopa",
+      "ingredientQuantity": 2,
+      "_id": {
+        "$oid": "61c12c40e9a488ed00bfa4ea"
+      }
+    },
+    {
+      "ingredient": "leite",
+      "ingredientUnit": "Ml(s)",
+      "ingredientQuantity": 200,
+      "_id": {
+        "$oid": "61c12c40e9a488ed00bfa4eb"
+      }
+    }
+  ],
+  "tools": [
+    "notools"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 2
+    },
+    "howToMake": [
+      "Misture o leite e o achocolatado."
+    ]
+  },
+  "servingsPerPerson": 1
+},{
+  "_id": {
+    "$oid": "61c12eaf5056c4dd94002af9"
+  },
+  "name": "arroz cozido",
+  "imageUrl": "https://vomariacantora.com.br/src/uploads/2018/09/arroz-cozido-1200x803.jpg",
+  "ingredients": [
+    {
+      "ingredient": "alho",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 2,
+      "_id": {
+        "$oid": "61c12eaf5056c4dd94002afa"
+      }
+    },
+    {
+      "ingredient": "arroz",
+      "ingredientUnit": "Xícara(s)",
+      "ingredientQuantity": 2,
+      "_id": {
+        "$oid": "61c12eaf5056c4dd94002afb"
+      }
+    },
+    {
+      "ingredient": "azeite",
+      "ingredientUnit": "Colher(es) de Sopa",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c12eaf5056c4dd94002afc"
+      }
+    },
+    {
+      "ingredient": "sal",
+      "ingredientUnit": "Colher(es) de Chá",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c12eaf5056c4dd94002afd"
+      }
+    }
+  ],
+  "tools": [
+    "fogão"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 30
+    },
+    "howToMake": [
+      "Lave bem o arroz e coloque a água para ferver.",
+      "Numa panela, coloque o alho picado e socado.",
+      "Acrescente então o azeite e deixe dourar. Quando o alho começar a suar, adicione o arroz.",
+      "Refogue o arroz, e em seguida coloque 3 xícaras de água quente e o sal.",
+      "Baixe o fogo, deixe a panela semi-tampada e deixe cozinhar até a água secar."
+    ]
+  },
+  "servingsPerPerson": 6
+},{
+  "_id": {
+    "$oid": "61c12fd15056c4dd94002b0e"
+  },
+  "name": "feijão cozido",
+  "imageUrl": "https://image.freepik.com/fotos-gratis/tigela-de-barro-com-feijao-cozido-em-molho-de-tomate-isolado-no-fundo-branco-com-tracado-de-recorte-tradicional-lobio-georgiano_88281-4495.jpg",
+  "ingredients": [
+    {
+      "ingredient": "alho",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 2,
+      "_id": {
+        "$oid": "61c12fd15056c4dd94002b0f"
+      }
+    },
+    {
+      "ingredient": "azeite",
+      "ingredientUnit": "Colher(es) de Chá",
+      "ingredientQuantity": 3,
+      "_id": {
+        "$oid": "61c12fd15056c4dd94002b10"
+      }
+    },
+    {
+      "ingredient": "cebola",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 0.5,
+      "_id": {
+        "$oid": "61c12fd15056c4dd94002b11"
+      }
+    },
+    {
+      "ingredient": "feijão",
+      "ingredientUnit": "Grama(s)",
+      "ingredientQuantity": 250,
+      "_id": {
+        "$oid": "61c12fd15056c4dd94002b12"
+      }
+    }
+  ],
+  "tools": [
+    "fogão",
+    "panela de pressão"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 40
+    },
+    "howToMake": [
+      "Coloque na panela de pressão o óleo, o alho e a cebola.",
+      "Refogue por aproximadamente 2 minutos e acrescente o feijão.",
+      "Acrescente água, cubra com uns dois dedos acima do feijão.",
+      "Deixe cozinhar por 40 minutos, após cozido tempere com sal a gosto."
+    ]
+  },
+  "servingsPerPerson": 4
+},{
+  "_id": {
+    "$oid": "61c131f35056c4dd94002b27"
+  },
+  "name": "creme de alho",
+  "imageUrl": "https://espetinhodesucesso.com.br/wp-content/uploads/2018/02/creme-de-alho-1200x900.jpg",
+  "ingredients": [
+    {
+      "ingredient": "alho",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 3,
+      "_id": {
+        "$oid": "61c131f35056c4dd94002b28"
+      }
+    },
+    {
+      "ingredient": "azeite",
+      "ingredientUnit": "Ml(s)",
+      "ingredientQuantity": 400,
+      "_id": {
+        "$oid": "61c131f35056c4dd94002b29"
+      }
+    },
+    {
+      "ingredient": "leite",
+      "ingredientUnit": "Ml(s)",
+      "ingredientQuantity": 200,
+      "_id": {
+        "$oid": "61c131f35056c4dd94002b2a"
+      }
+    },
+    {
+      "ingredient": "sal",
+      "ingredientUnit": "Pitada(s)",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c131f35056c4dd94002b2b"
+      }
+    }
+  ],
+  "tools": [
+    "liquidificador"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 10
+    },
+    "howToMake": [
+      "Coloque no liquidificador o alho, o leite e o sal, bata ligeiramente para triturar o alho.",
+      "Em seguida continue batendo e vá colocando o óleo em fio, sem parar de bater até dar o ponto desejado.",
+      "O creme de alho deve ficar consistente e cremoso."
+    ]
+  },
+  "servingsPerPerson": 10
+},{
+  "_id": {
+    "$oid": "61c1338c5056c4dd94002b44"
+  },
+  "name": "vitamina de banana com chocolate",
+  "imageUrl": "https://casademulher.com/wp-content/uploads/2020/02/como-fazer-vitamina-de-banana-com-chocolate.jpg",
+  "ingredients": [
+    {
+      "ingredient": "achocolatado",
+      "ingredientUnit": "Colher(es) de Sopa",
+      "ingredientQuantity": 4,
+      "_id": {
+        "$oid": "61c1338c5056c4dd94002b45"
+      }
+    },
+    {
+      "ingredient": "açúcar",
+      "ingredientUnit": "Colher(es) de Sopa",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c1338c5056c4dd94002b46"
+      }
+    },
+    {
+      "ingredient": "banana",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c1338c5056c4dd94002b47"
+      }
+    },
+    {
+      "ingredient": "leite",
+      "ingredientUnit": "Ml(s)",
+      "ingredientQuantity": 200,
+      "_id": {
+        "$oid": "61c1338c5056c4dd94002b48"
+      }
+    }
+  ],
+  "tools": [
+    "liquidificador"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 5
+    },
+    "howToMake": [
+      "Bata tudo no liquidificador."
+    ]
+  },
+  "servingsPerPerson": 1
+},{
+  "_id": {
+    "$oid": "61c137441f9c4e180e3caa0d"
+  },
+  "name": "bolo fofo",
+  "imageUrl": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2016/11/bolo-simples-de-liquidificador-1024x576.jpg",
+  "ingredients": [
+    {
+      "ingredient": "açúcar",
+      "ingredientUnit": "Xícara(s)",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa0e"
+      }
+    },
+    {
+      "ingredient": "farinha de trigo",
+      "ingredientUnit": "Xícara(s)",
+      "ingredientQuantity": 2,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa0f"
+      }
+    },
+    {
+      "ingredient": "fermento químico",
+      "ingredientUnit": "Colher(es) de Chá",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa10"
+      }
+    },
+    {
+      "ingredient": "leite",
+      "ingredientUnit": "Xícara(s)",
+      "ingredientQuantity": 1,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa11"
+      }
+    },
+    {
+      "ingredient": "margarina",
+      "ingredientUnit": "Colher(es) de Sopa",
+      "ingredientQuantity": 3,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa12"
+      }
+    },
+    {
+      "ingredient": "ovo",
+      "ingredientUnit": "Unidade(s)",
+      "ingredientQuantity": 3,
+      "_id": {
+        "$oid": "61c137441f9c4e180e3caa13"
+      }
+    }
+  ],
+  "tools": [
+    "forma com elevação",
+    "forno",
+    "liquidificador"
+  ],
+  "preparation": {
+    "time": {
+      "timeUnit": "Minuto(s)",
+      "timeQuantity": 60
+    },
+    "howToMake": [
+      "Coloque todos os ingredientes no copo do liquidificador e bata bem.",
+      "Despeje em na forma untada e enfarinhada.",
+      "Leve ao forno médio preaquecido (180ºC) por cerca de 40 minutos ou até dourar.",
+      "Desenforme morno, deixe esfriar e sirva."
+    ]
+  },
+  "servingsPerPerson": 10
+}]

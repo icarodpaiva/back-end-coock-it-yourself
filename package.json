@@ -1,0 +1,19 @@
+{
+  "name": "17-desafio-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/icaropaivadbz/17-desafio-final.git",
+  "author": "icaro paiva <icaropaivadbz.gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  }
+}
